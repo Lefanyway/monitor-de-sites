@@ -2,7 +2,7 @@
 Este é um programa simples em Go que monitora o status de sites através de requisições HTTP. 
 
 ---
-Como instalar o Golang?
+# Como instalar o Golang?
 Windows:
 Acesse o site oficial do Golang: https://golang.org/dl/.
 Baixe o instalador para Windows.
