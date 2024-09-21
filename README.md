@@ -15,14 +15,11 @@ Abra o terminal.
 Execute os seguintes comandos para baixar e instalar o Go:
 
 ```
-bash
-Copiar código
 sudo apt update
 sudo apt install -y golang
+
 Após a instalação, verifique a versão instalada com o comando:
 
-bash
-Copiar código
 go version
 
 ```
