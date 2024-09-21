@@ -2,7 +2,27 @@
 Este é um programa simples em Go que monitora o status de sites através de requisições HTTP. 
 
 ---
+Como instalar o Golang?
+Windows:
+Acesse o site oficial do Golang: https://golang.org/dl/.
+Baixe o instalador para Windows.
+Execute o instalador e siga as instruções.
+Após a instalação, abra o "Prompt de Comando" e digite go version para verificar se o Go foi instalado corretamente.
+Linux (Debian/Ubuntu):
+Abra o terminal.
 
+Execute os seguintes comandos para baixar e instalar o Go:
+
+bash
+Copiar código
+sudo apt update
+sudo apt install -y golang
+Após a instalação, verifique a versão instalada com o comando:
+
+bash
+Copiar código
+go version
+Pronto! Agora que o Go está instalado, você pode testar o programa.
 
 # Como usar?
 
